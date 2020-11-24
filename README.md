@@ -4,4 +4,5 @@ Exemplo de uma tela inicial de um app criado com react-native, elaborada como fo
 
 ![alt text](https://github.com/thaisvilarinho/RN-App-TelaInicial/blob/master/app.PNG?raw=true)
 
-FIGURA 1 - Componentes renderizados Tela Inicial app - Imagem por Pablo Merchán Montes - Fonte: https://unsplash.com/@pablomerchanm
+FIGURA 1 - Componentes renderizados Tela Inicial app 
+Imagem por Pablo Merchán Montes - Fonte: https://unsplash.com/@pablomerchanm
